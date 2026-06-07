@@ -27,4 +27,5 @@ ghost-story-generator/
 python src/ghost_story_generator.py
 
 ## Author
-Akshaaya
+Akshaaya Sri G 
+Intern ID:CITS3704
